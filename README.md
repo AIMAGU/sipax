@@ -89,7 +89,7 @@ return [
 <img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/9.jpg" alt="Screenshot"/>
 
 ## Kontak
-Aplikasi full bisa anda dapatkan dengan melakukan kontak via [Whatsapp](https://api.whatsapp.com/send?phone=6285742974933&text=Saya%20tertarik%20untuk%20membeli%20aplikasi%20SIPAX)
+Database PostgreSQL/MySQL bisa anda dapatkan dengan melakukan kontak via [Whatsapp](https://api.whatsapp.com/send?phone=6285742974933&text=Saya%20tertarik%20untuk%20membeli%20aplikasi%20SIPAX)
 
 ## License
 **SIPAX** is released under the BSD-3-Clause License. See the bundled `LICENSE.md` for details.
