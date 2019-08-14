@@ -56,9 +56,9 @@ git clone https://github.com/AIMAGU/sipax.git
 
 ## Release Updates
 
-> Refer the [CHANGE LOG](https://github.com/kartik-v/yii2-widgets/blob/master/CHANGE.md) for details on changes to various releases.
+> Refer the [CHANGE LOG](https://github.com/sipax/blob/master/CHANGE.md) for details on changes to various releases.
 
-The widgets currently available in **yii2-widgets** are grouped by the type of usage.
+The widgets currently available in **sipax** are grouped by the type of usage.
 
 ### Demo
 You can see a [demonstration here](http://sipax.co) on usage of these widgets with documentation and examples.
