@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="http://demos.krajee.com" title="Krajee Demos" target="_blank">
+    <a href="http://sipax.co" title="Krajee Demos" target="_blank">
         <img src="https://github.com/AIMAGU/sipax/blob/master/sipax-git.png" alt="Sipax Logo"/>
     </a>
     <br>
@@ -89,6 +89,8 @@ return [
     'tanya_akhir' => '?',
 ];
 ```
+## Screenshot Aplikasi
+<img src="https://github.com/AIMAGU/sipax/blob/master/sipax-git.png" alt="Sipax Logo"/>
 
 ## Kontak
 Aplikasi full bisa anda dapatkan dengan melakukan kontak via [Whatsapp](https://api.whatsapp.com/send?phone=6285742974933&text=Saya%20tertarik%20untuk%20membeli%20aplikasi%20SIPAX)
