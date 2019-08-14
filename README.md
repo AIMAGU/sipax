@@ -40,12 +40,6 @@ Adapun kebutuhan sistem untuk menjalankan program ini diantaranya:
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/). Remember to refer to the [composer.json](https://github.com/kartik-v/yii2-widgets/blob/master/composer.json) for 
 this extension's requirements and dependencies. 
 
-
-### Pre-requisites
-
-> Note: Check the [composer.json](https://github.com/kartik-v/yii2-widgets/blob/master/composer.json) for this extension's requirements and dependencies. 
-Read this [web tip /wiki](http://webtips.krajee.com/setting-composer-minimum-stability-application/) on setting the `minimum-stability` settings for your application's composer.json.
-
 ### Install
 
 Clone master ini
@@ -53,12 +47,6 @@ Clone master ini
 ```
 git clone https://github.com/AIMAGU/sipax.git
 ```
-
-## Release Updates
-
-> Refer the [CHANGE LOG](https://github.com/sipax/blob/master/CHANGE.md) for details on changes to various releases.
-
-The widgets currently available in **sipax** are grouped by the type of usage.
 
 ### Demo
 You can see a [demonstration here](http://sipax.co) on usage of these widgets with documentation and examples.
