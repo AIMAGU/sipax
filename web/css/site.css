@@ -1,0 +1,138 @@
+html,
+body {
+    height: 100%;
+	font: 400 14px/1.6 'Verdana', Helvetica, sans-serif;
+}
+
+.wrap {
+    margin: 0;
+	padding: 0;
+	color: #555;
+	background: #FFF;
+	background: #FFFFFF url('page.jpeg') fixed;
+   	background: url('pageglare.png') no-repeat, url('page.jpeg'), #FFFFFF;
+   	background-attachment: fixed, fixed, scroll !important;
+}
+
+.wrap > .container {
+	margin:0 auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background: #ffffff;
+	border: 0px solid #ddd;
+		-moz-border-radius-topleft: 10px;
+		-moz-border-radius-topright:10px;
+		-moz-border-radius-bottomleft:10px;
+		-moz-border-radius-bottomright:10px;
+		-webkit-border-top-left-radius:10px;
+		-webkit-border-top-right-radius:10px;
+		-webkit-border-bottom-left-radius:10px;
+		-webkit-border-bottom-right-radius:10px;
+	-moz-box-shadow: 1px 1px 28px #ddd;
+	-webkit-box-shadow: 1px 1px 28px #ddd;
+	box-shadow: 1px 1px 28px #ddd;
+}
+
+.wrap > .container > .conx {
+    padding: 10px 15px 20px;
+}
+
+.footer {
+    height: 60px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: transparent;
+}
+
+.jumbotron .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+}
+
+.not-set {
+    color: #c55;
+    font-style: italic;
+}
+
+/* add sorting icons to gridview sort links */
+a.asc:after, a.desc:after {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    padding-left: 5px;
+}
+
+a.asc:after {
+    content: /*"\e113"*/ "\e151";
+}
+
+a.desc:after {
+    content: /*"\e114"*/ "\e152";
+}
+
+.sort-numerical a.asc:after {
+    content: "\e153";
+}
+
+.sort-numerical a.desc:after {
+    content: "\e154";
+}
+
+.sort-ordinal a.asc:after {
+    content: "\e155";
+}
+
+.sort-ordinal a.desc:after {
+    content: "\e156";
+}
+
+.grid-view th {
+    white-space: nowrap;
+}
+
+.hint-block {
+    display: block;
+    margin-top: 5px;
+    color: #999;
+}
+
+.error-summary {
+    color: #a94442;
+    background: #fdf7f7;
+    border-left: 3px solid #eed3d7;
+    padding: 10px 20px;
+    margin: 0 0 15px 0;
+}
+
+/* align the logout "link" (button in form) of the navbar */
+.nav li > form > button.logout {
+    padding: 15px;
+    border: none;
+}
+
+@media(max-width:767px) {
+    .nav li > form > button.logout {
+        display:block;
+        text-align: left;
+        width: 100%;
+        padding: 10px 15px;
+    }
+}
+
+.nav > li > form > button.logout:focus,
+.nav > li > form > button.logout:hover {
+    text-decoration: none;
+}
+
+.nav > li > form > button.logout:focus {
+    outline: none;
+}
