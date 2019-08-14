@@ -1,35 +1,23 @@
-# SIPAX
-Sistem Pakar Diagnosis Penyakit Anthrax pada Hewan dengan Metode Certainty Factor
-
 <h1 align="center">
     <a href="http://demos.krajee.com" title="Krajee Demos" target="_blank">
-        <img src="http://kartik-v.github.io/bootstrap-fileinput-samples/samples/krajee-logo-b.png" alt="Krajee Logo"/>
+        <img src="https://github.com/AIMAGU/sipax/blob/master/sipax-git.png" alt="Sipax Logo"/>
     </a>
     <br>
-    yii2-widgets
+    Sistem Pakar Diagnosis Penyakit Anthrax pada Hewan dengan Metode Certainty Factor
     <hr>
-    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DTP3NZQ6G2AYU"
+    <a href="https://paypal.me/aimagu"
        title="Donate via Paypal" target="_blank">
         <img src="http://kartik-v.github.io/bootstrap-fileinput-samples/samples/donate.png" alt="Donate"/>
     </a>
 </h1>
 
-[![Stable Version](https://poser.pugx.org/kartik-v/yii2-widgets/v/stable)](https://packagist.org/packages/kartik-v/yii2-widgets)
-[![Unstable Version](https://poser.pugx.org/kartik-v/yii2-widgets/v/unstable)](https://packagist.org/packages/kartik-v/yii2-widgets)
-[![License](https://poser.pugx.org/kartik-v/yii2-widgets/license)](https://packagist.org/packages/kartik-v/yii2-widgets)
-[![Total Downloads](https://poser.pugx.org/kartik-v/yii2-widgets/downloads)](https://packagist.org/packages/kartik-v/yii2-widgets)
-[![Monthly Downloads](https://poser.pugx.org/kartik-v/yii2-widgets/d/monthly)](https://packagist.org/packages/kartik-v/yii2-widgets)
-[![Daily Downloads](https://poser.pugx.org/kartik-v/yii2-widgets/d/daily)](https://packagist.org/packages/kartik-v/yii2-widgets)
+Aplikasi berbasis website menggunakan PHP dengan framework Yii versi 2 menerapkan metode forward chaining dalam proses penentuan gejala dan pengolahan nilai kepastian menggunakan metode certainty factor.
 
-This extension enhances or adds functionality to existing Yii Framework 2 Widgets to make available other bundled features available in Bootstrap 3.0, new HTML 5 features and affiliated Bootstrap extras.
+> NOTE: Aplikasi ini dibangun pada 29 Juni 2019. Pastikan selalu memperbarui apabila terdapat pembaruan sistem.
 
-> NOTE: This extension has been revamped with release v3.4.1 on 05-Dec-2015. With release v3.4.0, each widget within this extension bundle has been logically regrouped and split into separate sub repositories. 
-This change has been done to allow developers flexibility to install separately or specific widgets only (via composer) if needed. However, for new users installing this bundle 
-should be the easiest way to give you access to all these important widget sub repositories in one shot. This change would not affect backward compatibility for any users already using the previous extension versions.
+## Paket Aplikasi
 
-## Widgets available in this bundle
-
-The **yii2-widgets** bundle automatically includes extensions or widgets from these sub repositories for accessing via `\kartik\widgets\` namespace.
+The **sipax** bundle automatically includes extensions or widgets from these sub repositories for accessing via `\kartik\widgets\` namespace.
 
 - [yii2-krajee-base](https://github.com/kartik-v/yii2-krajee-base) 
 - [yii2-widget-activeform](https://github.com/kartik-v/yii2-widget-activeform) 
