@@ -78,7 +78,15 @@ return [
 ];
 ```
 ## Screenshot Aplikasi
-<img src="https://github.com/AIMAGU/sipax/blob/master/sipax-git.png" alt="Sipax Logo"/>
+<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/1.jpg" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/2.jpg" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/3.jpg" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/4.jpg" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/5.jpg" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/6.jpg" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/7.jpg" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/8.jpg" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/9.jpg" alt="Screenshot"/>
 
 ## Kontak
 Aplikasi full bisa anda dapatkan dengan melakukan kontak via [Whatsapp](https://api.whatsapp.com/send?phone=6285742974933&text=Saya%20tertarik%20untuk%20membeli%20aplikasi%20SIPAX)
