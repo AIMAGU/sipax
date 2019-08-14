@@ -11,7 +11,7 @@
     </a>
 </h1>
 
-Aplikasi berbasis website menggunakan PHP dengan framework Yii versi 2 menerapkan metode forward chaining dalam proses penentuan gejala dan pengolahan nilai kepastian menggunakan metode certainty factor.
+Aplikasi berbasis website menggunakan PHP dengan framework Yii versi 2 menerapkan metode forward chaining dalam proses penentuan diagnosa dan pengolahan nilai kepastian menggunakan metode certainty factor.
 
 > NOTE: Aplikasi ini dibangun pada 29 Juni 2019. Pastikan selalu memperbarui apabila terdapat pembaruan sistem.
 
@@ -42,14 +42,14 @@ this extension's requirements and dependencies.
 
 ### Install
 
-Clone master ini
+Clone master
 
 ```
 git clone https://github.com/AIMAGU/sipax.git
 ```
 
 ### Demo
-You can see a [demonstration here](http://sipax.co) on usage of these widgets with documentation and examples.
+You can see a [demonstration here](http://web.sipax.co) on usage of these widgets with documentation and examples.
 
 ## Pengaturan
 
