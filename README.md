@@ -50,6 +50,9 @@ git clone https://github.com/AIMAGU/sipax.git
 
 ### Demo
 You can see a [demonstration here](http://web.sipax.co) on usage of these widgets with documentation and examples.
+Username: petugas
+Password: 123123
+(Mohon gunakan aplikasi demo ini dengan bijak, kami hanya ingin berbagi)
 
 ## Pengaturan
 
