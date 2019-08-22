@@ -52,6 +52,8 @@ git clone https://github.com/AIMAGU/sipax.git
 You can see a [demonstration here](http://web.sipax.co) on usage of these widgets with documentation and examples.
 Username: petugas
 Password: 123123
+<br>
+Naskah dapat di download pada link berikut [Download Naskah](http://eprints.akakom.ac.id/8430/)
 (Mohon gunakan aplikasi demo ini dengan bijak, kami hanya ingin berbagi)
 
 ## Pengaturan
