@@ -83,7 +83,7 @@ return [
 ];
 ```
 ## Screenshot Aplikasi
-# Tampilan Desktop
+### Tampilan Desktop
 <img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/1.jpg" alt="Screenshot"/>
 <img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/2.jpg" alt="Screenshot"/>
 <img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/3.jpg" alt="Screenshot"/>
@@ -93,7 +93,8 @@ return [
 <img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/7.jpg" alt="Screenshot"/>
 <img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/8.jpg" alt="Screenshot"/>
 <img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/9.jpg" alt="Screenshot"/>
-# Tampilan Mobile
+
+### Tampilan Mobile
 <img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/mobile-1.jpeg" alt="Screenshot"/>
 <img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/mobile-2.jpeg" alt="Screenshot"/>
 <img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/mobile-3.jpeg" alt="Screenshot"/>
