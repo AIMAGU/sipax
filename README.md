@@ -96,5 +96,8 @@ return [
 ## Kontak
 Database PostgreSQL/MySQL bisa anda dapatkan dengan melakukan kontak via [Whatsapp](https://api.whatsapp.com/send?phone=6285742974933&text=Saya%20tertarik%20untuk%20membeli%20aplikasi%20SIPAX)
 
+## Link Download Database
+[http://unduh.rochim.com](http://unduh.rochim.com/download/0d9423a039c3cf04ed98660f9b1e964d.html)
+
 ## License
 **SIPAX** is released under the BSD-3-Clause License. See the bundled `LICENSE.md` for details.
