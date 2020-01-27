@@ -25,7 +25,7 @@ Pada aplikasi ini terdiri dari beberapa modul diantaranya:
 - Modul Aturan / Basis Pengetahuan
 - Modul User / Pengguna 
 - Modul Konsultasi
-- Menggunakan Metode Certainty Factor
+- Menggunakan Metode Certainty Factor (Metode CF)
 
 ## Kebutuhan Sistem
 
