@@ -100,12 +100,10 @@ return [
 <img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/mobile-2.jpeg" alt="Screenshot"/>
 <img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/mobile-3.jpeg" alt="Screenshot"/>
 
-## Pre-requisites
-Note: Check the composer.json for this extension's requirements and dependencies. Read this web tip /wiki on setting the minimum-stability settings for your application's composer.json.
-
 ## Installation
-- Git clone repository
-- yii migrate
+```
+yii migrate
+```
 
 ## Kontak
 Kontak via [Whatsapp](https://api.whatsapp.com/send?phone=6285742974933&text=Saya%20tertarik%20untuk%20membeli%20aplikasi%20SIPAX)
