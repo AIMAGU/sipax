@@ -100,7 +100,7 @@ return [
 <img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/mobile-2.jpeg" alt="Screenshot"/>
 <img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/mobile-3.jpeg" alt="Screenshot"/>
 
-## Installation
+## Database Installation
 ```
 yii migrate
 ```
