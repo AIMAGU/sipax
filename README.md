@@ -54,15 +54,15 @@ git clone https://github.com/AIMAGU/sipax.git
 You can see a [demonstration here](http://triwaluyo.16mb.com/web/) on usage of these widgets with documentation and examples.
 <br>
 ```
-<b>Petugas</b><br>
+[PETUGAS]
 Username: userpetugas
 Password: petugas
 <br>
-<b>Pakar</b><br>
+[PAKAR]
 Username: userpakar
 Password: pakar
 <br>
-<b>Pengguna</b><br>
+[PENGGUNA]
 Username: userkonsultasi
 Password: konsultasi
 ```
