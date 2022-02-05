@@ -25,6 +25,7 @@ Pada aplikasi ini terdiri dari beberapa modul diantaranya:
 - Modul Aturan / Basis Pengetahuan
 - Modul User / Pengguna 
 - Modul Konsultasi
+- Menggunakan cara kerja Forward Chaining
 - Menggunakan Metode Certainty Factor (Metode CF)
 
 ## Kebutuhan Sistem
@@ -50,9 +51,18 @@ git clone https://github.com/AIMAGU/sipax.git
 ```
 
 ### Demo
-You can see a [demonstration here](http://web.sipax.co) on usage of these widgets with documentation and examples.
-Username: petugas
-Password: 123123
+You can see a [demonstration here](http://triwaluyo.16mb.com/web/) on usage of these widgets with documentation and examples.
+~Petugas~
+Username: userpetugas
+Password: petugas
+
+~Pakar~
+Username: userpakar
+Password: pakar
+
+~Pengguna~
+Username: userkonsultasi
+Password: konsultasi
 <br>
 Naskah dapat di download pada link berikut [Download Naskah](http://eprints.akakom.ac.id/8430/)
 (Mohon gunakan aplikasi demo ini dengan bijak, kami hanya ingin berbagi)
