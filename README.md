@@ -68,7 +68,7 @@ Password: konsultasi
 ```
 <br>
 Naskah dapat di download pada link berikut [Download Naskah](http://eprints.akakom.ac.id/8430/)
-(Mohon gunakan aplikasi demo ini dengan bijak, kami hanya ingin berbagi)
+<br>(Mohon gunakan aplikasi demo ini dengan bijak, kami hanya ingin berbagi)
 
 ## Pengaturan
 
