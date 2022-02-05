@@ -66,7 +66,6 @@ Password: pakar
 Username: userkonsultasi
 Password: konsultasi
 ```
-
 <br>(Mohon gunakan aplikasi demo ini dengan bijak, kami hanya ingin berbagi)
 
 ## Pengaturan
