@@ -67,7 +67,7 @@ Username: userkonsultasi
 Password: konsultasi
 ```
 <br>
-Naskah dapat di download pada link berikut [Download Naskah](http://eprints.akakom.ac.id/8430/)
+Naskah dapat di download pada link berikut [demonstration here](http://triwaluyo.16mb.com/web/) [Download Naskah](http://eprints.akakom.ac.id/8430/)
 <br>(Mohon gunakan aplikasi demo ini dengan bijak, kami hanya ingin berbagi)
 
 ## Pengaturan
