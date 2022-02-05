@@ -52,15 +52,16 @@ git clone https://github.com/AIMAGU/sipax.git
 
 ### Demo
 You can see a [demonstration here](http://triwaluyo.16mb.com/web/) on usage of these widgets with documentation and examples.
-~Petugas~
+<br>
+####Petugas
 Username: userpetugas
 Password: petugas
-
-~Pakar~
+<br>
+####Pakar
 Username: userpakar
 Password: pakar
-
-~Pengguna~
+<br>
+####Pengguna
 Username: userkonsultasi
 Password: konsultasi
 <br>
