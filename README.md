@@ -14,16 +14,16 @@
 Aplikasi berbasis website menggunakan PHP dengan framework Yii versi 2 menerapkan metode forward chaining dalam proses penentuan diagnosa dan pengolahan nilai kepastian menggunakan metode certainty factor.
 
 > NOTE: Aplikasi ini dibangun pada 29 Juni 2019. Pastikan selalu memperbarui apabila terdapat pembaruan sistem.
-> Versi 1.9 18 Maret 2022 [(Download)](https://wa.me/6285742974933);
-> Versi 1.8 21 Juli 2021 [(Download)](http://http://triwaluyo.16mb.com/download/v18.zip);
-> Versi 1.7 01 Maret 2021 [(Download)](http://http://triwaluyo.16mb.com/download/v17.zip);
-> Versi 1.6 11 November 2020 [(Download)](http://http://triwaluyo.16mb.com/download/v16.zip);
-> Versi 1.5 25 Agustus 2020 [(Download)](http://http://triwaluyo.16mb.com/download/v15.zip);
-> Versi 1.4 19 Juni 2020 [(Download)](http://http://triwaluyo.16mb.com/download/v14.zip);
-> Versi 1.3 02 Februari 2020 [(Download)](http://http://triwaluyo.16mb.com/download/v13.zip);
-> Versi 1.2 16 Oktober 2019 [(Download)](http://http://triwaluyo.16mb.com/download/v12.zip);
-> Versi 1.1 30 Agustus 2019 ;
-> Versi 1.0 29 Juni 2019;
+> - Versi 1.9 18 Maret 2022 [(Download)](https://wa.me/6285742974933);
+> - Versi 1.8 21 Juli 2021 [(Download)](http://http://triwaluyo.16mb.com/download/v18.zip);
+> - Versi 1.7 01 Maret 2021 [(Download)](http://http://triwaluyo.16mb.com/download/v17.zip);
+> - Versi 1.6 11 November 2020 [(Download)](http://http://triwaluyo.16mb.com/download/v16.zip);
+> - Versi 1.5 25 Agustus 2020 [(Download)](http://http://triwaluyo.16mb.com/download/v15.zip);
+> - Versi 1.4 19 Juni 2020 [(Download)](http://http://triwaluyo.16mb.com/download/v14.zip);
+> - Versi 1.3 02 Februari 2020 [(Download)](http://http://triwaluyo.16mb.com/download/v13.zip);
+> - Versi 1.2 16 Oktober 2019 [(Download)](http://http://triwaluyo.16mb.com/download/v12.zip);
+> - Versi 1.1 30 Agustus 2019 ;
+> - Versi 1.0 29 Juni 2019;
 
 ## Paket Aplikasi
 
